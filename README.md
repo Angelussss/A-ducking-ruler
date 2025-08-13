@@ -7,7 +7,7 @@ If you’ve ever looked at your desk and thought *“what if my measuring tool w
 
 ## Features (a.k.a. excuses to make a PCB)
 
-- **It measures stuff** — up to 21 cm! (metric gang rise up)
+- **It measures stuff** — up to 20 cm! (metric gang rise up)
 - **FR4** — because cardboard rulers are for cowards.
 - **Two layers** — which is 100% overkill for a ruler.
 - Random footprints for components you probably don’t need to solder onto your ruler.
